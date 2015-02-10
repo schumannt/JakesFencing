@@ -98,20 +98,21 @@ ol li
   margin-right: auto;}
 
 #header
-{ background: #323534 url(back.png) repeat-x;
-  height: 177px;}
+{ background: #323534;
+  border-bottom: solid #8db33b 5px; 
+  height: 112px;}
   
 #banner
 {  background: transparent url(banner.jpg) no-repeat;
   width: 860px;
-  height: 180px;
+  height: 150px;
   margin-bottom: 20px;
   border: 10px solid #DDD;}
 
 #logo
 { width: 880px;
   position: relative;
-  height: 140px;
+  height: 80px;
   background: transparent;}
 
 #logo #logo_text 

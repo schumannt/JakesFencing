@@ -100,7 +100,7 @@ ol li
 #header
 { background: #323534;
   border-bottom: solid #8db33b 5px; 
-  height: 112px;}
+  height: 135px;}
   
 #banner
 {  background: transparent url(banner.jpg) no-repeat;
@@ -112,7 +112,7 @@ ol li
 #logo
 { width: 880px;
   position: relative;
-  height: 80px;
+  height: 103px;
   background: transparent;}
 
 #logo #logo_text 
